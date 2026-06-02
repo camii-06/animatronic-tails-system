@@ -10,10 +10,10 @@ This project aims to design and build a lightweight, wearable animatronic tail s
 
 Planned features: 
 - 4 motion states:  
-  - **Attack** (alert/upward posture with mid-to-high intensity LED output)
-  - **Idle** (low-intensity LED output and randomized, slow movement)
-  - **Teleport** (downward posture with full-intensity LED output)
-  - **Power-Save** (no LED output and minimal servo usage)
+  - **Attack** - alert/upward posture with mid-to-high intensity LED output
+  - **Idle** - low-intensity LED output and randomized, slow movement
+  - **Teleport** - downward posture with full-intensity LED output
+  - **Power-Save** - no LED output and minimal servo usage
 - Voice control system for switching between states using codename triggers (Attack, Idle, Teleport, Power-Save)
 
 ## Focus Areas
