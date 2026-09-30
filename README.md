@@ -1,6 +1,6 @@
 # Wearable Animatronic Tail System
 
-A wearable multi-segment animatronic tail system focused on embedded systems, servo-driven motion, and custom mechanical design for expressive movement. 
+A wearable multi-segment animatronic tail system focused on embedded systems, servo-driven motion, and custom mechanical design for expressive movement.
 
 Inspired by Schwi Dola from No Game No Life: Zero (originally designed by Yuu Kamiya), this project explores robotics for cosplay, engineering, and embedded control systems through the development of a wearable tail system for cosplay.
 
@@ -29,7 +29,8 @@ This project aims to design and build a lightweight, wearable animatronic tail s
 In active development. 
 
 - Early-stage CAD design completed and under iteration.
-- Hardware and control systems are being iteratively developed and tested, including fit and routing constraints for control cables. 
+- Hardware and control systems are being iteratively developed and tested, including fit and constraints for control cables.
+- CAD design finalized and printing material chosen (Anycubic Tough Resin Ultra)
 
 ## Disclaimer
 
