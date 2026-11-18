@@ -31,7 +31,7 @@ In active development.
 - Early-stage CAD design completed and under iteration.
 - Hardware and control systems are being iteratively developed and tested, including fit and constraints for control cables.
 - CAD design finalized and printing material chosen (Anycubic Resin)
-- Software production postponed start date until MadHacks 2026
+- Software production postponed start date until Winter Break 2026-2027
 
 ## Disclaimer
 
